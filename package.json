@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/soutaschool/typescript-practice/issues"
   },
-  "homepage": "https://github.com/soutaschool/typescript-practice#readme"
+  "homepage": "https://github.com/soutaschool/typescript-practice#readme",
+  "dependencies": {
+    "save-dev": "0.0.1-security",
+    "typescript": "^3.9.5"
+  }
 }
