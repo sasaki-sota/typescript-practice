@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/soutaschool/typescript-practice#readme",
   "dependencies": {
+    "axios": "^0.19.2",
     "save-dev": "0.0.1-security",
     "ts-node-dev": "^1.0.0-pre.44",
     "typescript": "^3.9.5"

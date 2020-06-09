@@ -12,6 +12,6 @@ let name = 'Typescript';
 // アノテーション　＝　変数などに型をつけること
 let isFinished: boolean = true;
 isFinished = false;
-isFinished = 1;
+// isFinished = 1;
 console.log({ isFinished });
 
