@@ -10,4 +10,4 @@ class VisaCard {
 
 let myVisaCard = new VisaCard('Souta');
 console.log(myVisaCard.owner);
-myVisaCard.owner = 'Beki';
+// myVisaCard.owner = 'Beki';
