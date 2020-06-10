@@ -5,5 +5,5 @@ npx ts-node-dev --respawn src/install-typescript.ts
 
 ts-nodeのバージョンダウンによってエラー検知の問題を解決
 
-axiosは復讐が必要
-なぜ使用しているのか？
+こんな感じでコマンド叩けばコプいー可能
+ cp src/my-first-class.ts src/access-modifiers.ts
